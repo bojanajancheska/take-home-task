@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How can I update my billing information?",
+    "answer": "You can update your billing information by logging into your account and navigating to the 'Billing' section."
+  },
+  {
+    "question": "What should I do if my payment was rejected due to insufficient funds?",
+    "answer": "Contact your bank or credit card issuer to check the account balance and resolve the funding issue. If the problem is with the card, contact the issuing institution for assistance."
+  },
+  {
+    "question": "How can I reset my account password?",
+    "answer": "You can reset your account password by visiting the login page and clicking on 'Forgot Password.' Follow the instructions to verify your email address and set a new password."
+  },
+  {
+    "question": "How can I enable two-factor authentication on my account?",
+    "answer": "You can enable two-factor authentication by going to your account settings, selecting the security tab, and following the instructions to set up a verification method such as an authenticator app or SMS code."
+  },
+  {
+    "question": "How can I change my account's email address?",
+    "answer": "To change your account's email address, log into your account dashboard, navigate to the profile settings, and follow the instructions to edit your contact information."
+  },
+  {
+    "question": "How can I cancel my subscription?",
+    "answer": "You can cancel your subscription by logging into your account, navigating to the subscriptions section, and following the cancellation instructions provided there."
+  },
+  {
+    "question": "Can I get a refund for unused products purchased from your platform?",
+    "answer": "Yes, you may request a refund within 30 days of purchase, provided the product is in resellable condition and not yet shipped."
+  },
+  {
+    "question": "How can I download my invoice after purchasing from the platform?",
+    "answer": "You can download your invoice by logging into your account, navigating to the 'Orders' section, and selecting the appropriate order. Once selected, you will be able to download the invoice as a PDF file."
+  },
+  {
+    "question": "How can I delete my account permanently?",
+    "answer": "You can delete your account by logging into your account dashboard and navigating to the account settings, then selecting the option to delete your account. You may be prompted to confirm your action, and once deleted, all associated data will be removed from the system."
+  },
+  {
+    "question": "How can I update my billing details after receiving a confirmation email?",
+    "answer": "You can update your billing details by logging into your account, navigating to the 'Billing' section, and following the instructions to edit your payment method."
+  }
+]
